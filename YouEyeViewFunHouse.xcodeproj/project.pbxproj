@@ -140,7 +140,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0460;
-				ORGANIZATIONNAME = "Mobile Makers";
+				ORGANIZATIONNAME = "Umut Kanbak";
 			};
 			buildConfigurationList = A9C7AB041730A569000453B2 /* Build configuration list for PBXProject "YouEyeViewFunHouse" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -306,6 +306,7 @@
 				A9C7AB2E1730A569000453B2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
